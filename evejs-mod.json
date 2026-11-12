@@ -1,0 +1,53 @@
+{
+  "author": {
+    "id": "au-mvgf59rqpaue",
+    "keyId": "6d218baa968e",
+    "name": "普罗旺斯煎饼果子"
+  },
+  "category": "玩法",
+  "changelog": "",
+  "conflicts": [
+    "npc-loot-rules-261028",
+    "npc-loot-rules"
+  ],
+  "delisted": false,
+  "description": "重新整理敌人掉落：普通敌人只掉普通装备；指挥官掉少量势力装备与弹药；官员掉势力装备、官员装备、狗牌与弹药；监察官按舰体掉对应尺寸的死亡空间装备；无人机装备不再大量重复；运输船与旗舰维持原有产出。",
+  "displayName": "更合理的掉落",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/jealous123456789/evejs-mod-better-loot/releases/download/v1.0.0/better-loot-1.0.0.zip"
+    }
+  ],
+  "evejsVersions": [
+    "261108.x"
+  ],
+  "featured": false,
+  "highlights": [
+    "普通敌人只掉普通装备、弹药与杂货，不掉势力、官员、死亡空间装备。",
+    "指挥官掉少量势力装备与势力弹药，不再一次掉一大船。",
+    "官员掉势力装备、官员装备、狗牌与势力弹药，结构完整。",
+    "监察官按舰体掉对应尺寸的死亡空间装备，数量收敛到少量。",
+    "无人机指挥官与官员不再大量重复同一件装备。",
+    "运输船、旗舰与蓝图的产出维持原有水平。"
+  ],
+  "history": [],
+  "id": "better-loot",
+  "publishedAt": "2026-11-12",
+  "readme": [
+    "版本：1.0.0",
+    "重新整理敌人掉落，让每一类敌人的产出更接近正式服：",
+    "本模组与旧版掉落规则模组互斥，启用前请先关闭旧模组。"
+  ],
+  "repo": "https://github.com/jealous123456789/evejs-mod-better-loot",
+  "requiresRestart": true,
+  "sha256": "e107dbca7333010f8694021912e48c9834bf8ee4a6b2cd365ca220498bb7f440",
+  "sizeBytes": 107597,
+  "tags": [
+    "掉落",
+    "平衡",
+    "修复"
+  ],
+  "version": "1.0.0"
+}
