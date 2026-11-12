@@ -5,7 +5,7 @@
     "name": "普罗旺斯煎饼果子"
   },
   "category": "玩法",
-  "changelog": "",
+  "changelog": "新增 365 艘派系战争、入侵、特殊遭遇、叛乱、漫游、残余敌人，按势力掉普通装备。\n新增 450 艘不规则实体，按舰体掉普通装备；其中 81 艘按势力掉。\n补正 280 艘护卫舰的掉落绑定，修正护卫舰被误判为建筑的问题。\n新增三张不规则实体掉落表。\n59 艘旗舰、工业、无人机、采矿护卫舰暂不处理。",
   "conflicts": [
     "npc-loot-rules-261028",
     "npc-loot-rules"
@@ -17,7 +17,7 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/jealous123456789/evejs-mod-better-loot/releases/download/v1.0.0/better-loot-1.0.0.zip"
+      "url": "https://github.com/jealous123456789/evejs-mod-better-loot/releases/download/v1.0.1/better-loot-1.0.1.zip"
     }
   ],
   "evejsVersions": [
@@ -30,24 +30,26 @@
     "官员掉势力装备、官员装备、狗牌与势力弹药，结构完整。",
     "监察官按舰体掉对应尺寸的死亡空间装备，数量收敛到少量。",
     "无人机指挥官与官员不再大量重复同一件装备。",
+    "派系战争、入侵、特殊遭遇、叛乱、漫游、残余等 258 艘战斗敌人按势力掉普通装备。",
+    "不规则实体 277 艘按舰体掉普通装备；其中 35 艘能识别势力的按势力掉。",
     "运输船、旗舰与蓝图的产出维持原有水平。"
   ],
   "history": [],
   "id": "better-loot",
   "publishedAt": "2026-11-12",
   "readme": [
-    "版本：1.0.0",
+    "版本：1.1.0",
     "重新整理敌人掉落，让每一类敌人的产出更接近正式服：",
     "本模组与旧版掉落规则模组互斥，启用前请先关闭旧模组。"
   ],
   "repo": "https://github.com/jealous123456789/evejs-mod-better-loot",
   "requiresRestart": true,
-  "sha256": "e107dbca7333010f8694021912e48c9834bf8ee4a6b2cd365ca220498bb7f440",
-  "sizeBytes": 107597,
+  "sha256": "9269dc96b82b032c7be6be4eaf4b963588a23214d3075d2b77891fcdda6ed6e3",
+  "sizeBytes": 119651,
   "tags": [
     "掉落",
     "平衡",
     "修复"
   ],
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
