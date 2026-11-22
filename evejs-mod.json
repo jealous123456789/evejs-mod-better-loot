@@ -5,7 +5,7 @@
     "name": "普罗旺斯煎饼果子"
   },
   "category": "玩法",
-  "changelog": "优化了掉落内容\n新增了菱形怪和海盗要塞的掉落",
+  "changelog": "补充了DED建筑的掉落",
   "conflicts": [
     "npc-loot-rules-261028",
     "npc-loot-rules"
@@ -17,7 +17,7 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/jealous123456789/evejs-mod-better-loot/releases/download/v1.1.0/better-loot-1.1.0.zip"
+      "url": "https://github.com/jealous123456789/evejs-mod-better-loot/releases/download/v1.1.1/better-loot-1.1.1.zip"
     }
   ],
   "evejsVersions": [
@@ -41,7 +41,7 @@
   ],
   "history": [],
   "id": "better-loot",
-  "publishedAt": "2026-11-21",
+  "publishedAt": "2026-11-22",
   "readme": [
     "普通敌人只掉普通装备、弹药与杂货，不会掉势力、官员或死亡空间装备。空残骸率和件数维持原样。",
     "指挥官掉 1 到 3 件势力装备和势力弹药，装备不重复，不再出现一次掉一整船的情况。",
@@ -57,12 +57,12 @@
   ],
   "repo": "https://github.com/jealous123456789/evejs-mod-better-loot",
   "requiresRestart": true,
-  "sha256": "0afbcfaebe8f183fbf22bd00fa68d6a93a00f9d639bdeae337e261f512134070",
-  "sizeBytes": 172502,
+  "sha256": "6168ec68dda7242513b7492565b6563067df714751f7c8342f0fcf0b0ac4f6f3",
+  "sizeBytes": 183906,
   "tags": [
     "掉落",
     "平衡",
     "修复"
   ],
-  "version": "1.1.0"
+  "version": "1.1.1"
 }
